@@ -1,0 +1,5 @@
+{
+  "name": "Wallpaper AI",
+  "description": "A modern, dark-themed web application that leverages the Gemini API to generate stunning wallpapers. Users can specify a prompt and choose an aspect ratio, with the resulting image displayed inside a sleek 2D device mockup.",
+  "requestFramePermissions": []
+}
