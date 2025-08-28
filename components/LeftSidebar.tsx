@@ -44,7 +44,7 @@ const LeftSidebar: React.FC<LeftSidebarProps> = (props) => {
   } = props;
 
   const styles: ImageStyle[] = ['Default', 'Photorealistic', 'Anime', 'Cyberpunk', 'Fantasy', 'Minimalist', 'Abstract'];
-  const models: ImagenModel[] = ['imagen-4.0-generate-001', 'imagen-4.0-ultra-generate-001', 'imagen-4.0-fast-generate-001'];
+  const models: ImagenModel[] = ['imagen-4.0-generate-001', 'imagen-4.0-ultra-generate-001', 'imagen-4.0-fast-generate-001', 'imagen-3.0-generate-002'];
 
   const sidebarClasses = `
     fixed inset-y-0 left-0 z-50
