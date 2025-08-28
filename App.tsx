@@ -18,7 +18,7 @@ const App: React.FC = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState<boolean>(false);
   
   // New settings state
-  const [model, setModel] = useState<ImagenModel>('imagen-4.0-generate-001');
+  const [model, setModel] = useState<ImagenModel>('imagen-3.0-generate-002');
   const [apiKey, setApiKey] = useState<string>('');
   
   const textareaRef = useRef<HTMLTextAreaElement>(null);
